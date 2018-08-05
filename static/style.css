@@ -1,0 +1,27 @@
+#mapid { 
+    height: 720px; 
+}
+
+#Header {
+    text-align: center;
+    background-color: beige;
+    padding-top:10px;
+}
+
+.legend {
+    line-height: 18px;
+    color: rgb(255, 255, 255);
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 1;
+}
+
+#Footer{
+    text-align: center;
+    background-color: beige;
+    padding-bottom:20px;
+}
